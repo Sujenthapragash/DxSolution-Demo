@@ -12,7 +12,7 @@
   IDE - IntelliJ community
   
 ## How to run
-  Clone or Download the project<br/>
+  Clone or Download the project from repository <br/>
   Replace the chrome driver in resource directory in the project root with your machine compatibility <br>
   Build a project in IntelliJ <br>
   Run a test or test suit.
