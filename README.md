@@ -4,7 +4,7 @@
   It is an automated testing project for testing a demo eCommerce store from Browser Stack (https://bstackdemo.com/). Test is designed on Page Object Model and all the interactions with web elements are done at page level where all the assertions are done at testt level. 
 
 ## Technology Used
-  Build tool - Mavan<br/>
+  Build tool - Maven<br/>
   Programming language - Java<br/>
   Broswer automation - Selenium WebDriver<br/> 
   Testing framework  - TestNg<br/>
