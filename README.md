@@ -8,7 +8,7 @@
   Programming language - Java<br/>
   Broswer automation - Selenium WebDriver<br/> 
   Testing framework  - TestNg<br/>
-  Browser - Chrome driver (94.0.4606.61)
+  Browser - Chrome driver (94.0.4606.61)<br/>
   IDE - IntelliJ community
   
 ## How to run
