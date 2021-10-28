@@ -1,4 +1,4 @@
-# DxSolution-Demo
+# DxSolution-Demo for Test Automation
 
 ## Description 
   It is an automated testing project for testing a demo eCommerce store from Browser Stack (https://bstackdemo.com/). Test is designed on Page Object Model and all the interactions with web elements are done at page level where all the assertions are done at testt level. 
